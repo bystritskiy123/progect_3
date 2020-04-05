@@ -1,0 +1,130 @@
+@font-face {
+  font-family: "Segoe_WP_Light";
+  src: url("./fonts/Segoe_WP_Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Segoe_WP";
+  src: url("./fonts/Segoe_WP.ttf") format("truetype");
+}
+body {
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  width: 100%;
+  height: 100%;
+}
+header nav {
+  width: 100%;
+  height: auto;
+}
+header nav h3 {
+  font-family: "Segoe_WP_Light";
+}
+header nav .navbar-brand {
+  margin-left: 10%;
+}
+header nav #navbarNav {
+  margin-left: 50%;
+}
+header nav #navbarNav .navbar-nav .nav-item .nav-link {
+  font-family: "Segoe_WP";
+  font-style: "regular";
+}
+
+#slider #carouselExampleControls {
+  background-image: url("./images/images1/dsfsdfsdfds.png");
+  background-size: 100%;
+  padding: 3%;
+}
+#slider #carouselExampleControls .carousel-inner .carousel-item .row .d-block {
+  margin-left: 15%;
+  width: 20%;
+}
+#slider #carouselExampleControls .carousel-inner .carousel-item .row .text {
+  color: white;
+  margin-left: 15%;
+  margin-top: 5%;
+  font-family: "Segoe_WP";
+  font-style: "light";
+}
+#slider #carouselExampleControls .carousel-inner .carousel-item .row .text h3 {
+  margin-top: 5%;
+}
+#slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button {
+  background: blue;
+  color: white;
+  border: 0px;
+  width: 40%;
+  height: auto;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+#slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button h5 {
+  margin-left: 5%;
+}
+#slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button img {
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+#img-text {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+}
+#img-text #card {
+  margin-left: 13%;
+}
+#img-text #card .card {
+  margin-left: 5%;
+  border: 0px;
+}
+#img-text #card .card img {
+  width: 50%;
+  margin-left: 20%;
+}
+#img-text #card .card .text {
+  font-size: 85%;
+  font-family: "Segoe_WP";
+  font-style: "light";
+}
+#img-text #card .card .text_main {
+  font-size: 150%;
+  font-family: "Segoe_WP";
+  font-style: "light";
+}
+
+#bag_text {
+  width: 100%;
+  height: auto;
+  margin-top: 8%;
+}
+#bag_text .row #part_1 h3 {
+  margin-left: 45%;
+  font-family: "Segoe_WP";
+  font-style: "regular";
+}
+#bag_text .row #part_1 img {
+  margin-left: 38%;
+  margin-top: 5%;
+  height: auto;
+  width: 45%;
+}
+#bag_text .row #part_2 h3 {
+  margin-top: 7%;
+  margin-left: 10%;
+  font-family: "Segoe_WP";
+}
+#bag_text .row #part_2 h4 {
+  width: 70%;
+  font-family: "Segoe_WP_Light";
+}
+
+footer h5 {
+  margin-left: 37%;
+  font-family: "Segoe_WP_Light";
+}
+
+/*# sourceMappingURL=style.css.map */

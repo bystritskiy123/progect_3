@@ -1,0 +1,167 @@
+@media (min-width: 360px) and (max-width: 640px) {
+  #slider #carouselExampleControls {
+    background-image: url("./images/images1/dsfsdfsdfds.png");
+    background-size: cover;
+  }
+  #slider #carouselExampleControls .carousel-inner .carousel-item .row .d-block {
+    width: 23%;
+    height: 20%;
+    margin-top: 3%;
+  }
+  #slider #carouselExampleControls .carousel-inner .carousel-item .row .text h1 {
+    font-size: 80%;
+  }
+  #slider #carouselExampleControls .carousel-inner .carousel-item .row .text h3 {
+    font-size: 80%;
+  }
+  #slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button {
+    width: 100%;
+    height: auto;
+    margin-left: 0%;
+  }
+  #slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button h5 {
+    font-size: 90%;
+    margin-top: 2%;
+  }
+  #slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button img {
+    width: 15%;
+    height: auto;
+    margin-top: 3%;
+  }
+}
+@media (min-width: 360px) and (max-width: 640px) {
+  #img-text #card .card {
+    margin-left: 0%;
+  }
+  #img-text #card .card .card-img-top {
+    width: 35%;
+    margin-left: 25%;
+  }
+}
+@media (min-width: 360px) and (max-width: 640px) {
+  #bag_text .row #part_1 h3 {
+    margin-left: 20%;
+    font-size: 170%;
+  }
+  #bag_text .row #part_1 img {
+    width: 65%;
+    margin-left: 22%;
+  }
+  #bag_text .row #part_2 h4 {
+    font-size: 100%;
+    width: 100%;
+    margin-left: 6%;
+  }
+}
+@media (min-width: 360px) and (max-width: 640px) {
+  footer h5 {
+    font-size: 100%;
+    margin-left: 20%;
+  }
+}
+@media (min-width: 410px) and (max-width: 730px) {
+  #bag_text .row #part_1 img {
+    width: 65%;
+    margin-left: 17%;
+  }
+  #bag_text .row #part_2 h3 {
+    margin-left: 12%;
+  }
+}
+@media (min-width: 760px) and (max-width: 1023px) {
+  #slider #carouselExampleControls {
+    background-image: url("./images/images1/dsfsdfsdfds.png");
+    background-size: cover;
+  }
+  #slider #carouselExampleControls .text h1 {
+    font-size: 200%;
+  }
+  #slider #carouselExampleControls .text h3 {
+    font-size: 140%;
+  }
+  #slider #carouselExampleControls .text .button {
+    width: 100%;
+    height: auto;
+    margin-left: 0%;
+  }
+  #slider #carouselExampleControls .text .button h5 {
+    font-size: 90%;
+    margin-top: 2%;
+  }
+  #slider #carouselExampleControls .text .button img {
+    width: 15%;
+    height: auto;
+  }
+
+  #img-text #card .card {
+    margin-left: 2%;
+  }
+  #img-text #card .card .card-img-top {
+    width: 40%;
+  }
+
+  #bag_text .row #part_1 img {
+    width: 65%;
+    margin-left: 17%;
+  }
+  #bag_text .row #part_1 h3 {
+    font-size: 150%;
+    margin-left: 22%;
+  }
+  #bag_text .row #part_2 h4 {
+    margin-left: 2%;
+    font-size: 100%;
+    width: 100%;
+  }
+
+  footer h5 {
+    margin-left: 33%;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1366px) {
+  header nav #navbarNav {
+    margin-left: 27%;
+  }
+  header nav #navbarNav .nav-link {
+    font-size: 150%;
+  }
+
+  #img-text {
+    margin-top: 12%;
+  }
+  #img-text #card {
+    margin-left: 6%;
+  }
+  #img-text #card .card {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  #img-text #card .card .card-img-top {
+    width: 47%;
+  }
+  #img-text #card .card .text_main {
+    font-size: 140%;
+  }
+  #img-text #card .card .text {
+    font-size: 90%;
+  }
+
+  #bag_text {
+    margin-top: 20%;
+  }
+  #bag_text .row #part_1 img {
+    width: 60%;
+    margin-left: 17%;
+  }
+  #bag_text .row #part_1 h3 {
+    font-size: 200%;
+    margin-left: 22%;
+  }
+  #bag_text .row #part_2 h4 {
+    margin-left: 2%;
+    font-size: 120%;
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=optimization.css.map */

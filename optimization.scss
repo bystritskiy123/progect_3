@@ -1,0 +1,270 @@
+@media (min-width:360px) and (max-width:640px) {
+    #slider {
+        #carouselExampleControls {
+            background-image: url('./images/images1/dsfsdfsdfds.png');
+            background-size: cover;
+
+            .carousel-inner {
+                .carousel-item {
+                    .row {
+                        .d-block {
+                            width: 23%;
+                            height: 20%;
+                            margin-top: 3%;
+                        }
+
+                        .text {
+                            h1 {
+                                font-size: 80%;
+                            }
+
+                            h3 {
+                                font-size: 80%;
+                            }
+
+                            .button {
+                                width: 100%;
+                                height: auto;
+                                margin-left: 0%;
+
+                                h5 {
+                                    font-size: 90%;
+                                    margin-top: 2%;
+                                }
+
+                                img {
+                                    width: 15%;
+                                    height: auto;
+                                    margin-top: 3%;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (min-width:360px) and (max-width:640px) {
+    #img-text {
+        #card {
+            .card {
+                margin-left: 0%;
+
+                .card-img-top {
+                    width: 35%;
+                    margin-left: 25%;
+                }
+            }
+        }
+    }
+}
+
+
+@media (min-width:360px) and (max-width:640px) {
+    #bag_text {
+        .row {
+            #part_1 {
+                h3 {
+                    margin-left: 20%;
+                    font-size: 170%;
+                }
+
+                img {
+                    width: 65%;
+                    margin-left: 22%;
+                }
+            }
+
+            #part_2 {
+                h4 {
+                    font-size: 100%;
+                    width: 100%;
+                    margin-left: 6%;
+                }
+            }
+        }
+    }
+}
+
+
+@media(min-width:360px) and (max-width:640px) {
+    footer {
+        h5 {
+            font-size: 100%;
+            margin-left: 20%;
+        }
+    }
+}
+
+
+@media (min-width:410px) and (max-width:730px) {
+    #bag_text {
+        .row {
+            #part_1 {
+                img {
+                    width: 65%;
+                    margin-left: 17%;
+                }
+            }
+
+            #part_2 {
+                h3 {
+                    margin-left: 12%;
+                }
+            }
+        }
+    }
+}
+
+
+@media (min-width:760px) and (max-width:1023px) {
+    #slider {
+        #carouselExampleControls {
+            background-image: url('./images/images1/dsfsdfsdfds.png');
+            background-size: cover;
+
+            .text {
+                h1 {
+                    font-size: 200%;
+                }
+
+                h3 {
+                    font-size: 140%;
+                }
+
+                .button {
+                    width: 100%;
+                    height: auto;
+                    margin-left: 0%;
+
+                    h5 {
+                        font-size: 90%;
+                        margin-top: 2%;
+                    }
+
+                    img {
+                        width: 15%;
+                        height: auto;
+                    }
+                }
+            }
+
+        }
+    }
+
+    #img-text {
+        #card {
+            .card {
+                margin-left: 2%;
+
+                .card-img-top {
+                    width: 40%;
+                }
+            }
+        }
+
+    }
+
+    #bag_text {
+        .row {
+            #part_1 {
+                img {
+                    width: 65%;
+                    margin-left: 17%;
+                }
+
+                h3 {
+                    font-size: 150%;
+                    margin-left: 22%;
+                }
+            }
+
+            #part_2 {
+                h4 {
+                    margin-left: 2%;
+                    font-size: 100%;
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+    footer {
+        h5 {
+            margin-left: 33%;
+        }
+    }
+
+}
+
+
+@media (min-width:1024px) and (max-width:1366px) {
+    header {
+        nav {
+            #navbarNav {
+                margin-left: 27%;
+
+                .nav-link {
+                    font-size: 150%;
+                }
+            }
+        }
+    }
+
+
+    #img-text {
+        margin-top: 12%;
+
+        #card {
+            margin-left: 6%;
+
+            .card {
+                margin-left: 0%;
+                margin-right: 0%;
+
+                .card-img-top {
+                    width: 47%;
+                }
+
+                .text_main {
+                    font-size: 140%;
+                }
+
+                .text {
+                    font-size: 90%;
+                }
+            }
+        }
+
+    }
+
+
+    #bag_text {
+        margin-top: 20%;
+
+        .row {
+            #part_1 {
+                img {
+                    width: 60%;
+                    margin-left: 17%;
+                }
+
+                h3 {
+                    font-size: 200%;
+                    margin-left: 22%;
+                }
+            }
+
+            #part_2 {
+                h4 {
+                    margin-left: 2%;
+                    font-size: 120%;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

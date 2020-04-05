@@ -163,5 +163,59 @@
     width: 100%;
   }
 }
+@media (min-width: 1900px) {
+  header nav #navbarNav .nav-link {
+    font-size: 150%;
+  }
+
+  #slider #carouselExampleControls .text h1 {
+    font-size: 300%;
+  }
+  #slider #carouselExampleControls .text h3 {
+    font-size: 200%;
+  }
+  #slider #carouselExampleControls .button h5 {
+    font-size: 160%;
+  }
+
+  #img-text {
+    width: 100%;
+    height: auto;
+  }
+  #img-text #card {
+    width: 100%;
+    margin-left: 22%;
+  }
+  #img-text #card .card {
+    margin-left: 5%;
+  }
+  #img-text #card .card .card-img-top {
+    width: 70%;
+  }
+  #img-text #card .card .text_main {
+    font-size: 170%;
+  }
+  #img-text #card .card .text {
+    font-size: 90%;
+  }
+
+  #bag_text {
+    margin-top: 10%;
+  }
+  #bag_text .row #part_1 img {
+    width: 45%;
+    margin-left: 40%;
+  }
+  #bag_text .row #part_1 h3 {
+    font-size: 200%;
+    margin-left: 50%;
+  }
+  #bag_text .row #part_2 h3 {
+    font-size: 200%;
+  }
+  #bag_text .row #part_2 h4 {
+    font-size: 150%;
+  }
+}
 
 /*# sourceMappingURL=optimization.css.map */

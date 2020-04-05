@@ -268,3 +268,91 @@
         }
     }
 }
+
+
+@media (min-width:1900px) {
+    header {
+        nav {
+            #navbarNav {
+                .nav-link {
+                    font-size: 150%;
+                }
+            }
+        }
+    }
+
+    #slider {
+        #carouselExampleControls {
+            .text {
+                h1 {
+                    font-size: 300%;
+                }
+
+                h3 {
+                    font-size: 200%;
+                }
+            }
+
+            .button {
+                h5 {
+                    font-size: 160%;
+                }
+            }
+        }
+    }
+
+    #img-text {
+        width: 100%;
+        height: auto;
+
+        #card {
+            width: 100%;
+            margin-left: 22%;
+
+            .card {
+                margin-left: 5%;
+
+                .card-img-top {
+                    width: 70%;
+                }
+
+                .text_main {
+                    font-size: 170%;
+                }
+
+                .text {
+                    font-size: 90%;
+                }
+            }
+        }
+
+    }
+
+    #bag_text {
+        margin-top: 10%;
+
+        .row {
+            #part_1 {
+                img {
+                    width: 45%;
+                    margin-left: 40%;
+                }
+
+                h3 {
+                    font-size: 200%;
+                    margin-left: 50%;
+                }
+            }
+
+            #part_2 {
+                h3 {
+                    font-size: 200%;
+                }
+
+                h4 {
+                    font-size: 150%;
+                }
+            }
+        }
+    }
+}

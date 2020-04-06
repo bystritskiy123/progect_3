@@ -58,11 +58,12 @@ header nav #navbarNav .navbar-nav .nav-item .nav-link {
   border: 0px;
   width: 40%;
   height: auto;
-  margin-left: 5%;
+  margin-left: 7%;
   margin-top: 10%;
 }
 #slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button h5 {
-  margin-left: 5%;
+  margin-left: 6%;
+  font-size: 120%;
 }
 #slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button img {
   margin-top: 2%;

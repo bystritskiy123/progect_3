@@ -67,6 +67,8 @@ header nav #navbarNav .navbar-nav .nav-item .nav-link {
 #slider #carouselExampleControls .carousel-inner .carousel-item .row .text .button img {
   margin-top: 2%;
   margin-left: 2%;
+  width: auto;
+  height: 100%;
 }
 
 #img-text {
